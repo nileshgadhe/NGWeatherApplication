@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>874336980147-usm8angaclqge60lpk1792r3q9igoudd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.874336980147-usm8angaclqge60lpk1792r3q9igoudd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNA7MHxetK57lTvKtGfq6CWHfZ2DBE1BU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>874336980147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nilesh.WeatherApplication</string>
+	<key>PROJECT_ID</key>
+	<string>weatherapplication-c861e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weatherapplication-c861e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:874336980147:ios:a1da9fffc78f7c02</string>
+	<key>DATABASE_URL</key>
+	<string>https://weatherapplication-c861e.firebaseio.com</string>
+</dict>
+</plist>
