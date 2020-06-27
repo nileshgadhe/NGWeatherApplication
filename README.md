@@ -9,4 +9,4 @@ _Weather Application With Google Signin_
 1. Alamofire
 1. Weather api
 
-![Video](https://youtu.be/fxBkcp3CPyo)
+![Weather demo](https://user-images.githubusercontent.com/29631918/85923572-cc9c4a80-b8a9-11ea-919e-09a88a8556c9.gif)
