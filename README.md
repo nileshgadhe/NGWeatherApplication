@@ -9,5 +9,4 @@ _Weather Application With Google Signin_
 1. Alamofire
 1. Weather api
 
-Images
-![Screenshot](https://i.pinimg.com/originals/58/f4/72/58f4723d8f23906bdcb058604075ad2a.png)
+
