@@ -10,4 +10,4 @@ _Weather Application With Google Signin_
 1. Weather api
 
 Images
-![Screenshot](https://png.pngtree.com/element_pic/16/11/02/bd886d7ccc6f8dd8db17e841233c9656.jpg)
+![Screenshot](https://i.pinimg.com/originals/58/f4/72/58f4723d8f23906bdcb058604075ad2a.png)
